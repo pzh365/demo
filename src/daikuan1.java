@@ -19,6 +19,7 @@ public class daikuan1 {
 //测试用2，请无视
 //master test
 //hot-fix test
+//网页手动添加的内容
     static void printDetails(double p, double mr, int m, double sum ){
         for(int i = 0; i < m; i++){
             double payInterest = p * mr;
