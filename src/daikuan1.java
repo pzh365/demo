@@ -15,7 +15,7 @@ public class daikuan1 {
         return p * mr * Math.pow(1+mr,m) / (Math.pow(1+mr,m)-1);
     }
 
-
+//测试用，请无视
     static void printDetails(double p, double mr, int m, double sum ){
         for(int i = 0; i < m; i++){
             double payInterest = p * mr;
